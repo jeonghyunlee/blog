@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: bugslayer
 permalink: /about/
 ---
 
-Some information about you!
+Jeong-hyun Lee
+Game Programmer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+2011.12 ~ ing : Engine Development Team, TL Camp, NCSOFT
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bugslayer@gmail.com](mailto:bugslayer@gmail.com)
